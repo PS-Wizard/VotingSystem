@@ -9,7 +9,6 @@ Any feature anyone is working on is to be pushed here. Later after review from t
 - [ ] UML Diagrams
 - [ ] Scoping
 - [ ] Sanity checks on each design made for functional testing.
-- [ ] Challenge any & all members on their work.
 
 
 ## FrontEnd :
@@ -18,16 +17,16 @@ Any feature anyone is working on is to be pushed here. Later after review from t
 - [x] Color Pallete
     - Already Settled; Will Provide Later
 - [ ] Finalise What Components Needed For The Website
-- [ ] Mock Website Design
-- [ ] Mock Mobile & Tablet view ( i.e just make it responsive )
+- [x] Mock Website Design
+- [x] Mock Mobile & Tablet view ( i.e just make it responsive )
 
 ## Backend:
-- [ ] Basic Routes
-- [ ] Basic Authentication API 
+- [x] Basic Routes
+- [x] Basic Authentication API 
 - [ ] Database Schema From Business Analyst
 - [ ] Figure out websockets for real-time counts
 
 ## Project Manager:
 - [ ] Validate And Port Over Any Components Made By The Designers to the tech stack.
-- [ ] Challenge any & all members on their work.
+
 
